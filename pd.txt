@@ -1,6 +1,3 @@
 Hello World 
 this is Parikshith
-creating new txt file
-to collab with keerthi sagar 
-using git with GitHub 
 connection
